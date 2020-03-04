@@ -1,0 +1,1 @@
+{"jobID":"2ba913f8-1bc4-6b12-6e93-60544d608931","spec":{"type":"policy","cause":{"Message":"","User":"Hippo Lin \u003chippo.lin@condenast.com.tw\u003e"},"spec":{"adm:helmrelease/sealed-secrets":{"add":{"automated":"true"},"remove":{}}}},"result":null}
